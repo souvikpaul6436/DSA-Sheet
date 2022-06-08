@@ -1,10 +1,10 @@
 # DSA-Sheet
 
-DSA SHEET BY FRAZ :- Complete (250 questions) DSA Sheet for Coding Interviews | Leetcode DSA sheet
+FRAZ SHEET  :- Complete (250 questions) DSA Sheet for Coding Interviews | Leetcode DSA sheet
 
 https://docs.google.com/spreadsheets/u/0/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/htmlview
 
-DSA SHEET LOVE BABBAR :- 450 DSA QUESTION
+LOVE BABBAR SHEET  :- 450 DSA QUESTION
 
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 
